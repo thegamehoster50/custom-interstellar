@@ -42,6 +42,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "game"],
       error: false
     },
+     {
+      name: "Android OS",
+      link: "https://now.gg/play/uncube/7074/now",
+      image: "/assets/media/icons/apps/android.png",
+      categories: ["all", "game"],
+      error: false
+    },
     {
       name: "Discord",
       link: "https://canary.discord.com",
