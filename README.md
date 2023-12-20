@@ -64,3 +64,5 @@ You can **NOT** deploy to Netlify, Cloudflare Pages, Github Pages or any other *
 Huge thanks to following people for contributing to Interstellar!
 
 [![Contrib](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
+
+**THIS IS A CUSTOM VERSION WHERE I ADDED SOME OTHER GAMES AND APPS, THIS IS NOT AN OFFICIAL ONE**
