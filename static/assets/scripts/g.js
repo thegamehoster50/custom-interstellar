@@ -1443,6 +1443,12 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all,", 'sports', 'local'],
       local: "true",
       },
+     {
+        name: "FC mobile (Now.GG)",
+        link: "https://now.gg/apps/electronic-arts/1353/ea-sports-fc-mobile-24-soccer.html",
+        image: "/assets/media/icons/.png",
+        categories: ['all', 'sports']
+      },
       {
         name: "Roblox (Now.GG)",
         link: "https://now.gg/play/roblox-corporation/5349/roblox",
